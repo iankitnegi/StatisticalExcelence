@@ -23,7 +23,7 @@ Example:
 
 3. Other types of data=
 - Cross-sectional data = Data collected at the same or nearly the same point in time. Ex: This cross-sectional data was collected on 11/5/2021  
-- Time-series data = Data collected over time. Ex: This data was collected for Amazon over a 5-day period  
+- Time-series data = Data collected over time. Ex: This data was collected for Amazon over a 5-day period
 
 ## What are Statistics?  
 Numerical facts like: Percentages, averages, probability…  
@@ -49,3 +49,11 @@ Raw Data that is summarized and presented
 ### Important Terms:  
 Population: The set of all elements of interest in a particular study (In many situations it is too costly to get data from all the elements in the population) Example => Census: Collecting data for a population  
 Sample: A subset of the population. Example => Sample survey: Collecting data for a sample  
+
+### Descriptive Statistics: Tabular, Graphical & Numerical summaries of data.
+Why Tabular and Graphical? Because it is hard to see patterns and trends when you are looking at Raw Data! Our Goal is to create useful information from the raw data so that we can see patterns and trends. This will help in Decision Making.  
+
+![Screenshot (167)](https://github.com/iankitnegi/StatisticalExcelence/assets/132642567/99a780f9-b7db-470e-96eb-4784fb174145)
+
+![Screenshot (166)](https://github.com/iankitnegi/StatisticalExcelence/assets/132642567/c91353a6-e514-4b1d-919f-15b55d39f965)
+
