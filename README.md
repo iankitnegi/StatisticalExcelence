@@ -55,5 +55,14 @@ Why Tabular and Graphical? Because it is hard to see patterns and trends when yo
 
 ![Screenshot (167)](https://github.com/iankitnegi/StatisticalExcelence/assets/132642567/99a780f9-b7db-470e-96eb-4784fb174145)
 
-![Screenshot (166)](https://github.com/iankitnegi/StatisticalExcelence/assets/132642567/c91353a6-e514-4b1d-919f-15b55d39f965)
+![Screenshot (166)](https://github.com/iankitnegi/StatisticalExcelence/assets/132642567/c91353a6-e514-4b1d-919f-15b55d39f965) 
+
+
+
+
+
+
+
+# Sources: 
+[Excel For Statistical Data Analysis](https://home.ubalt.edu/ntsbarsh/excel/Excel.htm)
 
